@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\bin\Debug\Activity2_Problem1.exe.config
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\bin\Debug\Activity2_Problem1.exe
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\bin\Debug\Activity2_Problem1.pdb
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Mapote_Activity2_C11.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.Activity2.resources
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.Properties.Resources.resources
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Mapote_Activity2_C11.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Mapote_Activity2_C11.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.exe
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.pdb
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Mapote_Activity2_C11.csproj.AssemblyReference.cache

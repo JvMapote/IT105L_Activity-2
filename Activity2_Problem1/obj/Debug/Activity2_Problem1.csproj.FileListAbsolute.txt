@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\bin\Debug\Activity2_Problem1.exe.config
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\bin\Debug\Activity2_Problem1.exe
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\bin\Debug\Activity2_Problem1.pdb
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.Properties.Resources.resources
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.exe
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.pdb
+C:\Users\admin\Desktop\IT105L\Activity 2\Problem1\Activity2_Problem1\Activity2_Problem1\obj\Debug\Activity2_Problem1.Activity2.resources
